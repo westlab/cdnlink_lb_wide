@@ -7,4 +7,6 @@ The proposing algorithm in this simulation is a smart dynamic load balancing usi
 
 Further details for the simulator visit:
 
+http://www.west.sd.keio.ac.jp/~erwin2h/
+http://erwin2h.wordpress.com/2015/05/14/cdnlink/
 
